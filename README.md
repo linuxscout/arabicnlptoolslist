@@ -3,7 +3,7 @@
 Arabic NLP tools List inventory 
 
 ## Tools
-###STEMMING
+### STEMMING
 - [Tashaphyne Light Stemmer ](https://pypi.org/project/Tashaphyne/) Tashaphyne Light Stemmer 
 - [Khoja Arabic Stemmer ](http://zeus.cs.pacificu.edu/shereen/research.htm#stemming) Khoja Arabic Stemmer 
 - Arabic Stemmers: Sebawai and Al-Stem[ Sebawai and Al-Stem](http://tides.umiacs.umd.edu/software.html)  (Contact Dr. Kareem Darwish)
@@ -12,7 +12,7 @@ D.2
 - [Farasa Segmentor ](https://github.com/qcri/FarasaSegmenter) Farasa 
 
 
-###MORPHOLOGICAL ANALYSIS AND GENERATION
+### MORPHOLOGICAL ANALYSIS AND GENERATION
 - Qalsadi[Qalsadi](http://github.com/linuxscout/qalsadi)  Qalsadi: Arabic mophological analyzer Library for python.
 - Buckwalter Arabic Morphological Analyzer ([BAMA](https://catalog.ldc.upenn.edu/LDC2004L02) BAMA) 
 - Standard Arabic Morphological Analyzer ([SAMA](https://catalog.ldc.upenn.edu/LDC2010L01) SAMA, version 3.0 of BAMA)
@@ -26,12 +26,12 @@ D.2
 - [Araflex ](http://lexanalysis.com/araflex/araflex.html) Araflex 
 
 
-###MORPHOLOGICAL DISAMBIGUATION AND POS TAGGING
+### MORPHOLOGICAL DISAMBIGUATION AND POS TAGGING
 -[ Khoja Arabic Tagger](http://zeus.cs.pacificu.edu/shereen/research.htm#tagging)  Khoja Arabic Tagger
 - [AMIRA:](http://nlp.ldeo.columbia.edu/amira/) AMIRA: Toolkit for Arabic tokenization, POS tagging and base phrase chunking
 - [MADA](http://www1.ccls.columbia.edu/~cadim/MADA.html) MADA: Morphological Analysis and Disambiguation for Arabic – a tool for tokenization, lemmatization, diacritization and POS tagging
 
-###PARSERS
+### PARSERS
 - [The Stanford Parser] (http://nlp.stanford.edu/software/lex-parser.shtml)
 - [The Bikel Parser](http://www.cis.upenn.edu/~dbikel/software.html#stat-parser)
 - [MALTParser]( http://maltparser.org/)
@@ -70,6 +70,7 @@ D.2
 ### Corpora
 #### Monolignual corpora
 - [Tashkeela](http://tashkeela.sf.net) Arabic vocalized (diacritized) Texts corpus
+- A fully diacritized modern[A fully diacritized modern](http://www.biblegateway.com/versions/?action=getVersionInfo&vid=28)  Arabic translation of the Bible (by Biblica).
 #### Multilingual corpora
 
 
