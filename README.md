@@ -10,6 +10,7 @@ Arabic NLP tools List inventory
 - [Larkey’s L-stem](http://www.springerlink.com/content/pr215t0701804h3g/) Larkey’s L-stem (contact authors)
 D.2
 - [Farasa Segmentor ](https://github.com/qcri/FarasaSegmenter) Farasa 
+- [ARBML/tkseem](https://github.com/ARBML/tkseem/)
 
 
 ### MORPHOLOGICAL ANALYSIS AND GENERATION
@@ -57,6 +58,7 @@ D.2
 * [Qutrub](http://qutrub.arabeyes.org) Source on [github](http://github.com/linuxscout/qutrub)
 *   [The CJKI Arabic Verb Conjugator](http://www.kanji.org/cjk/arabic/cave/cave.htm) (CAVE).  
     An interactive Arabic-English verb conjugation application for iOS devices that provides conjugation paradigms for over 1,600 Arabic verbs.
+* [AraCon](https://github.com/JaouadMousser/Aracon) ARACON is a verb conjugator for Arabic implemented as part of a morphological Analyser and generator (java). 
 
 ### Transcription and transliteration 
 *   [Arabic Transcription and Transliteration](http://www.kanji.org/cjk/trans/transsum.htm).  
@@ -134,3 +136,4 @@ eration
 ### Ontologies
 #### SEMANTIC ONTOLOGIES
 - [Arabic Wordnet](http://www.globalwordnet.org/AWN/)
+[Arabic VerbNet](https://github.com/JaouadMousser/Arabic-Verbnet) Arabic Verbnet is a lage scale verb lexicon that classifies verbs in Arabic using syntactic alternations inspired by the work of Kipper Schuler (2005) on English VerbNet. 
