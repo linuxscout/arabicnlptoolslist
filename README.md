@@ -45,7 +45,7 @@ D.2
 ~~- Yassine Benajiba’s [ANER (Arabic Named Entity Recognition) system](http://www1.ccls.columbia.edu/~ybenajiba/downloads.html) ~~
 ~~- [BBN’s Identifinder ](http://www.bbn.com/technology/speech/identifinder) BBN’s Identifinder (English, Arabic, Chinese)~~
 
-###MACHINE TRANSLATION
+### MACHINE TRANSLATION
 - [Statistical MT public resources](http://www.statmt.org/): Giza alignment, Pharaoh and Moses decoders, etc.
 
 ### TREE EDITING
@@ -71,6 +71,8 @@ D.2
 ## Resources
 ### Corpora
 #### Monolignual corpora
+- [Abuelkhair Corpus, 1.5 billion Arabic words corpus](http://www.abuelkhair.net/index.php/en/arabic/abu-el-khair-corpus)
+ includes more than 5 million newspaper articles, over 1.5 billion words, about 3 million unique words. The corpus is encoded (UTF-8,CP-1256)  and marked as XML and SGML.
 - [Tashkeela](http://tashkeela.sf.net) Arabic vocalized (diacritized) Texts corpus
 - A fully diacritized modern[A fully diacritized modern](http://www.biblegateway.com/versions/?action=getVersionInfo&vid=28)  Arabic translation of the Bible (by Biblica).
 #### Multilingual corpora
