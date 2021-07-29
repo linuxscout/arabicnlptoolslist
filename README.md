@@ -65,7 +65,8 @@ D.2
     An overview of some linguistic issues related to transliteration and transcription, with special focus on our Arabic transcription technology.
 *   The [ARAN](aran.htm) and [NANA](http://www.kanji.org/cjk/arabic/nana.htm) systems automatically transcribe CJK and Latin names to and from Arabic.
 
-
+### Numbers to words
+* [Tafqit](https://github.com/MohsenAlyafei/tafqit) : Tafqeet of Arabic Number to Word تحويل الأرقام إلى ما يقابلها كتابة باللغة العربية 
 
 
 ## Resources
