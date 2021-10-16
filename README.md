@@ -68,6 +68,8 @@ D.2
 ### Numbers to words
 * [Tafqit](https://github.com/MohsenAlyafei/tafqit) : Tafqeet of Arabic Number to Word تحويل الأرقام إلى ما يقابلها كتابة باللغة العربية 
 
+### Poetry 
+[Al-Faraheedy-Project](https://github.com/MukhtarSayedSaleh/Al-Faraheedy-Project)
 
 ## Resources
 ### Corpora
