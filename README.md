@@ -11,6 +11,9 @@ Arabic NLP tools List inventory
 D.2
 - [Farasa Segmentor ](https://github.com/qcri/FarasaSegmenter) Farasa 
 - [ARBML/tkseem](https://github.com/ARBML/tkseem/)
+- Alkhalil [Lemmatizer](http://oujda-nlp-team.net/2022/04/27/alkhalil-lemmatizer/)
+   - Alkhalil [Stemmer ](http://oujda-nlp-team.net/2022/04/27/alkhalil-stemmer/)
+   - Alkhalil [Root Extractor](http://oujda-nlp-team.net/2022/04/27/alkhalil-rootextractor/) 
 
 
 ### MORPHOLOGICAL ANALYSIS AND GENERATION
@@ -85,6 +88,7 @@ D.2
 
 *   [The CJKI Arabic Learner’s Dictionary](http://www.kanji.org/kanji/dictionaries/cald/cald_overview.pdf) (CALD) (_.pdf_).  
     A new concept dictionary that enables learners to gain a full understanding of MSA core vocabulary. An Arabic summary is available at [القاموس العربي الإنجليزي للمتعلمين](http://www.kanji.org/kanji/dictionaries/cald/cald_overview_a.pdf) (_.pdf_)
+    
 #### Wordlists 
 *   [Comprehensive Word Lists for Arabic](http://www.kanji.org/cjk/samples/cjkaword.htm) (CJKAWORD).  
     Comprehensive monolingual word lists for Arabic covering general vocabulary, proper nouns and technical terms. Includes both a lexical database for canonical forms and a full-furm lexicon.
