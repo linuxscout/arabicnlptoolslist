@@ -50,6 +50,7 @@ D.2
 
 ### MACHINE TRANSLATION
 - [Statistical MT public resources](http://www.statmt.org/): Giza alignment, Pharaoh and Moses decoders, etc.
+- [Turjuman ](https://github.com/UBC-NLP/turjuman): is a neural machine translation toolkit from 20 languages into Modern Standard Arabic. [Demo](https://demos.dlnlp.ai/turjuman/).
 
 ### TREE EDITING
 - [Tred for Arabic ](https://ufal.mff.cuni.cz/padt/PADT_1.0/docs/index.html) Tred for Arabic - Tree Editor with Arabic support
