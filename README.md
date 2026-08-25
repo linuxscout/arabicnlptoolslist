@@ -3,6 +3,9 @@
 Arabic NLP tools List inventory 
 
 ## Tools
+### TEXT NORMALIZATION AND CLEANING
+- [araclean](https://github.com/MhdMartini/araclean) — Offset-preserving Arabic text normalization and cleaning for Python. [Documentation](https://mhdmartini.github.io/araclean/latest/guides/offset-preserving/).
+
 ### STEMMING
 - [Tashaphyne Light Stemmer ](https://pypi.org/project/Tashaphyne/) Tashaphyne Light Stemmer 
 - [Khoja Arabic Stemmer ](http://zeus.cs.pacificu.edu/shereen/research.htm#stemming) Khoja Arabic Stemmer 
