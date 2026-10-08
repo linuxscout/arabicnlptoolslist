@@ -3,6 +3,7 @@
 ## Tools
 
 ### Text normalization and cleaning
+- [arabic-lint](https://github.com/Syamjith-NK/arabic-lint) — Detects Arabic text corrupted by arabic_reshaper + python-bidi (stored presentation forms and bidi controls) in corpora, source and Jupyter notebooks. [Corpus audit](https://syamjith-nk.github.io/is-arabic-training-data-corrupted/).
 - [araclean](https://github.com/MhdMartini/araclean) — Offset-preserving Arabic text normalization and cleaning for Python. [Documentation](https://mhdmartini.github.io/araclean/latest/guides/offset-preserving/).
 
 ### Stemming
