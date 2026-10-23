@@ -4,6 +4,7 @@
 
 ### Text normalization and cleaning
 - [araclean](https://github.com/MhdMartini/araclean) — Offset-preserving Arabic text normalization and cleaning for Python. [Documentation](https://mhdmartini.github.io/araclean/latest/guides/offset-preserving/).
+- [Arabic Text Normalizer API](https://apify.com/abdullah-arabic-tools/arabic-text-normalizer) — Paid hosted Apify API for configurable Arabic text cleanup and normalization. Requires an Apify account; $1 per 1,000 produced text results. [Examples and limits](https://github.com/aims1425-lab/arabic-text-normalizer-apify-examples).
 
 ### Stemming
 - [Tashaphyne Light Stemmer](https://pypi.org/project/Tashaphyne/) Tashaphyne Light Stemmer
